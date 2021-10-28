@@ -1,0 +1,49 @@
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Fragment.HomeFragment">
+
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/hy_ka"
+        android:textColor="@color/black"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.072" />
+
+    <ImageButton
+        android:id="@+id/imageButton"
+        android:layout_width="315dp"
+        android:layout_height="168dp"
+        android:contentDescription="@string/todo"
+        android:src="@drawable/nhyoka"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView"
+        app:layout_constraintVertical_bias="0.088" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="339dp"
+        android:layout_height="292dp"
+        android:text="@string/hy_ka_es_krim_adalah_sebuah_novel_misteri_jepang_yang_ditulis_oleh_honobu_yonezawa_sebuah_adaptasi_manga_yang_dibuat_oleh_taskohna_memulai_serialisasi_di_majalah_sh_nen_ace_edisi_januari_2012_sebuah_adaptasi_anime_dengan_22_episode_diproduksi_oleh_kyoto_animation_dan_didireksi_oleh_yasuhiro_takemoto_tayang_sejak_22_april_hingga_16_september_2012"
+        android:textColor="@color/black"
+        android:textSize="18sp"
+        android:typeface="monospace"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageButton"
+        app:layout_constraintVertical_bias="0.201" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

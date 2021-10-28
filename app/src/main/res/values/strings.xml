@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Fragment_Tiwi_30</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="textview">TextView</string>
+    <string name="hy_ka">Hyōka</string>
+    <string name="hy_ka_es_krim_adalah_sebuah_novel_misteri_jepang_yang_ditulis_oleh_honobu_yonezawa_sebuah_adaptasi_manga_yang_dibuat_oleh_taskohna_memulai_serialisasi_di_majalah_sh_nen_ace_edisi_januari_2012_sebuah_adaptasi_anime_dengan_22_episode_diproduksi_oleh_kyoto_animation_dan_didireksi_oleh_yasuhiro_takemoto_tayang_sejak_22_april_hingga_16_september_2012">Hyōka (氷菓 Es krim) adalah sebuah novel misteri Jepang yang ditulis oleh Honobu Yonezawa. Sebuah adaptasi manga yang dibuat oleh Taskohna memulai serialisasi di majalah Shōnen Ace edisi januari 2012. Sebuah adaptasi anime dengan 22 episode diproduksi oleh Kyoto Animation dan didireksi oleh Yasuhiro Takemoto tayang sejak 22 April hingga 16 September 2012.</string>
+<!--    <string name="todo">TODO</string>-->
+    <string name="novel_hyoka_telah_di_update_episode_2_3_ayo_baca_sekarang">Novel -Hyoka- telah di update episode 2-3 Ayo Baca sekarang!!!</string>
+    <string name="_05_56">05.56</string>
+<!--    <string name="hyoka">[-Hyoka-]</string>-->
+    <string name="notifikasi">NOTIFIKASI</string>
+    <string name="hyoka">[-Hyoka-]</string>
+    <string name="novel_hyoka_telah_di_update_episode_4_5_ayo_baca_sekarang">Novel -Hyoka- telah di update episode 4-5 Ayo Baca sekarang!!!</string>
+    <string name="kemarin">kemarin</string>
+<!--    <string name="todo">TODO</string>-->
+    <string name="todo">TODO</string>
+    <string name="pemberitahuan_terupdate">====================Pemberitahuan Terupdate====================</string>
+<!--    <string name="pengaturan">Pengaturan</string>-->
+<!--    <string name="pengaturan_aplikasi">Pengaturan Aplikasi</string>-->
+    <string name="pengaturan_aplikasi">Pengaturan Aplikasi</string>
+    <string name="pengaturan_akun">Pengaturan Akun</string>
+    <string name="n1">Notifikasi</string>
+    <string name="lainnya">Lainnya</string>
+    <string name="tentang_novel">Tentang Novel</string>
+    <string name="bantuan_dukungan">Bantuan/Dukungan</string>
+    <string name="keluar">Keluar</string>
+    <string name="garis">-------------------------------------------------------------------------------------------</string>
+    <string name="pengaturan">Pengaturan</string>
+</resources>
